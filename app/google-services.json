@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "202334015753",
+    "firebase_url": "https://viz-email.firebaseio.com",
+    "project_id": "viz-email",
+    "storage_bucket": "viz-email.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202334015753:android:b7965f6b3a2f8c3d",
+        "android_client_info": {
+          "package_name": "com.example.viz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202334015753-2nm9ofvgtm144ovsa9pepo75o7a0ob9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viz",
+            "certificate_hash": "6aa22dfaca3198f64d89e57bed53eab0ee3a0be6"
+          }
+        },
+        {
+          "client_id": "202334015753-l8d62pd1dc3vb05ltfv9k0s8q59an5c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtqHAHQzozZMuA0dvT6slXsAZ9OTcVTss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202334015753-l8d62pd1dc3vb05ltfv9k0s8q59an5c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
